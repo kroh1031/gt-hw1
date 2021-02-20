@@ -1,6 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
 
 ## Description
+[My Website!](https://kroh1031.github.io/week-01/)  
 For this week's homework, I worked on making the code in both the HTML and CSS files cleaner and more consolidated.  
 I was motivated to do so as I wanted to make the website more "accessible" and optimized for search engines.  
 
@@ -17,14 +18,10 @@ The steps that I took in order to deploy my website:
   2. Then, I navigated into my GitHub repository's Settings tab.
   3. From the settings page, I scrolled down to the GitHub Pages section and selected the master branch as my source.
   4. After doing so, I was finally able to get the URL for my now deployed website. 
-  [My Website!](https://kroh1031.github.io/week-01/)
 
 ## Usage
-To make use of this website, click on one of the three tabs (Search Engine Optimization, Online Reputation Management, or Social Media Marketing) in the header to navigate to each of those sections.  
-There you will find descriptions and images for each of those subject matters.  
-To the side you will see the benefits of utilizing them.  
-   
-![Picture of fixed website](assets/images/screenshot.png)
+Screenshot of Fixed Website:
+![Screenshot of Fixed Website](assets/images/screenshot.png)
 
 ## License
 MIT License
