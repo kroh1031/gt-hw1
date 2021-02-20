@@ -48,7 +48,7 @@ a {
     text-decoration: none;
 }
 
-/* Using pseudoclass */
+/* Applying pseudoclass */
 .searchHover:hover,
 .onlineHover:hover,
 .socialHover:hover
