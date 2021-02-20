@@ -24,7 +24,7 @@ To make use of this website, click on one of the three tabs (Search Engine Optim
 There you will find descriptions and images for each of those subject matters.  
 To the side you will see the benefits of utilizing them.  
    
-picture of fixed website ![alt text](assets/images/screenshot.png)
+![Picture of fixed website](assets/images/screenshot.png)
 
 ## License
 MIT License
