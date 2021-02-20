@@ -20,7 +20,10 @@ The steps that I took in order to deploy my website:
   [My Website!](https://kroh1031.github.io/week-01/)
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
+To make use of this website, click on one of the three tabs (Search Engine Optimization, Online Reputation Management, or Social Media Marketing) in the header to navigate to each of those sections.  
+There you will find descriptions and images for each of those subject matters.  
+To the side you will see the benefits of utilizing them.  
+   
 picture of fixed website ![alt text](assets/images/screenshot.png)
 
 ## License
