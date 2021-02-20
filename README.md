@@ -1,14 +1,27 @@
 # 01 HTML CSS Git: Code Refactor
 
 ## Description
-Explain what website does
-Reolacing nonsemantic tags with semantic tags and fixed errors in ccode
+For this week's homework, I worked on making the code in both the HTML and CSS files cleaner and more consolidated.  
+I was motivated to do so as I wanted to make the website more "accessible" and optimized for search engines.  
+
+One of the steps I took to make this possible was replacing the nonsemantic (div) tags with semantic tags to give a better understanding of where certain contents go on the webpage.   
+I also fixed a few errors in the code that prevented the website from functioning correctly.  
+Furthermore, I included several comments throughout the code to make aware of the changes that I've made and how certain elements work the way they do.  
+I got rid of classes when they were used unnecessarily and rather utilized the semantic tags to match the rules for styling.  
+
+One thing I learned for sure during this whole process is that it is crucial to have a coherent, well-structured codebase as it will maximize its sustainability. 
 
 ## Installation
-how i deployed github page [My Website!](https://kroh1031.github.io/week-01/)
+The steps that I took in order to deploy my website:
+  1. First, I used the git add, git commit, and git push commands to save and push my code to my GitHub repository.
+  2. Then, I navigated into my GitHub repository's Settings tab.
+  3. From the settings page, I scrolled down to the GitHub Pages section and selected the master branch as my source.
+  4. After doing so, I was finally able to get the URL for my now deployed website. 
+  [My Website!](https://kroh1031.github.io/week-01/)
 
 ## Usage
-picture of fixed website
+Provide instructions and examples for use. Include screenshots as needed.
+picture of fixed website ![alt text](assets/images/screenshot.png)
 
 ## License
 MIT License
